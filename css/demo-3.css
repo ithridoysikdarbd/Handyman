@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap');
+
+:root {
+	--pbmit-global-color: #f6d987;
+	--pbmit-global-color-rgb: 246, 217, 135;
+	--pbmit-secondary-color: #1f1915;
+	--pbmit-secondary-color-rgb: 31, 25, 21;
+	--pbmit-light-color: #fdf8f1;
+	--pbmit-white-color: #ffffff;
+	--pbmit-white-color-rgb: 255, 255, 255;
+	--pbmit-blackish-color: #2a2b36;
+	--pbmit-blackish-color-rgb: 42, 43, 54;
+	--pbmit-link-color-normal: #1f1915;
+	--pbmit-link-color-hover: #f6d987;
+	--pbmit-responsive-breakpoint: 1200px;
+
+	--pbmit-body-typography-font-family: "Inter", sans-serif;
+	--pbmit-body-typography-variant: regular;
+	--pbmit-body-typography-font-size: 17px;
+	--pbmit-body-typography-line-height: 1.6;
+	--pbmit-body-typography-color: #626262;
+	
+	--pbmit-heading-typography-font-family: "Inter", sans-serif;
+	--pbmit-heading-color: #181818;
+	--pbmit-heading-font-variant: 600;
+	
+	--pbmit-btn-typography-font-family: "Inter", sans-serif;
+	--pbmit-btn-typography-variant: 600;
+	--pbmit-btn-typography-font-size: 16px;
+	--pbmit-btn-typography-line-height: 26px;
+}
+ 
